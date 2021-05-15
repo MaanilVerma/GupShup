@@ -1,0 +1,10 @@
+body {
+    --primaryColor: #0482dc    ;
+    --secondaryColor: #c5e2f1;
+    overflow: hidden;
+}
+
+.app_body {
+    display: flex;
+    height: 100vh;
+}
